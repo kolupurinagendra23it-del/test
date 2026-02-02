@@ -1,6 +1,7 @@
 import java.util.*;
-public class hii{
-public static void main(string[] args){
-system.out.println("Hello World")
-}
+
+public class Hii {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
 }
